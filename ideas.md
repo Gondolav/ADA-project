@@ -1,6 +1,6 @@
 Hugo
-- [x]Est-ce qu’une inspection a un effet positif sur les inspections suivantes ? i.e. est-ce qu’inspecter augmente la qualité
-- [x]Est-ce que les inspections demandées par les établissements sont généralement favorables ?
+- [x] Est-ce qu’une inspection a un effet positif sur les inspections suivantes ? i.e. est-ce qu’inspecter augmente la qualité
+- [x] Est-ce que les inspections demandées par les établissements sont généralement favorables ?
 - [x]Est-ce que ces mêmes établissements reçoivent ensuite des inspections surprises ? Peut-être que demander spontanément une inspection est avantageux
 - [x]Étudier la proportion d’inspections réussies pour obtenir une licence, i.e. difficulté à obtenir cette licence par facility type
 - [x]Fréquence des différentes violations. Evolution d'une catégorie de violation au cours du temps
