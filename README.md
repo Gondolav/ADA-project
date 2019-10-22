@@ -31,11 +31,15 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 - What is the most encountered violation category for each neighborhood?
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
-The [Chicago Department of Public Health's Food Protection Program website](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) provides us with a well-documented dataset of all the food inspections they have done over the past decade.
+The [Chicago Department of Public Health's Food Protection Program website](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) provides us with a well-documented dataset of all the food inspections they have done over the past decade. After a first glance at the dataset, we noticed a small number of outliers, missing values and duplicates, except for the five last columns, where there is absolutely no data. Nevertheless, we have several ideas to manage and enrich the dataset. At first, we are going to categorize some columns such as "Facility Type" or "Risk" which take a finite number of values and are stored as strings. Then, to avoid mismatches, we will standardize values to have unique format (e.g. Chicago, CHICAGO, chicago). Finally, we could `explode` the comments in each row.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+We expect to have a well-documented and working code after each internal milestone.
+- 04/11/2019: clean and parse the dataset to get a nice workspace; work on the first set of questions (Inspection' effects on establishments)
+- 11/11/2019: work on the second set of questions (Establishments' predispositions to inspection failure)
+- 18/11/2019: work on the third set of questions (Neighbourhood and food quality correlation)
+- 25/11/2019: work on the last set of questions (Violation analysis); include at the end of the notebook a more structured informed plan for what comes next
 
 # Questions for TAs
-Add here some questions you have for us, in general or project-specific.
+- Is our plan too ambitious?
+- How to deal with the changes to food inspections procedures that happened on July 1st, 2018?
