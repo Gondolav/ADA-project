@@ -19,16 +19,16 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 - How are the inspection and establishment types linked with the inspection results?
 - Is there a relationship between the type of the restaurant and the quality?
 
+## Neighborhood and food quality correlation
+- How are the inspection results evolving over time and space?
+- Is there a relationship between the location of the restaurant and the quality? (economic and social causes)
+- What is the most encountered violation category for each neighborhood?
+- Is there a correlation between the violation n°38 (INSECTS, RODENTS, & ANIMALS) and the location?
+
 ## Violation analysis
 - What are the frequencies of each violation?
 - Are some violations more frequent than others in an establishment’s failure?
 - What are the most frequent violations encountered during complaint-caused inspections?
-
-## Neighborhood and food quality correlation
-- Is there a correlation between the violation n°38 (INSECTS, RODENTS, & ANIMALS) and the location?
-- How are the inspection results evolving over time and space?
-- Is there a relationship between the location of the restaurant and the quality? (economic and social causes)
-- What is the most encountered violation category for each neighborhood?
 
 # Dataset
 The [Chicago Department of Public Health's Food Protection Program website](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) provides us with a well-documented dataset of all the food inspections they have done over the past decade. After a first glance at the dataset, we noticed a small number of outliers, missing values and duplicates, except for the five last columns, where there is absolutely no data. Nevertheless, we have several ideas to manage and enrich the dataset. At first, we are going to categorize some columns such as "Facility Type" or "Risk" which take a finite number of values and are stored as strings. Then, to avoid mismatches, we will standardize values to have unique format (e.g. Chicago, CHICAGO, chicago). Finally, we could `explode` the comments in each row.
@@ -43,3 +43,5 @@ We expect to have a well-documented and working code after each internal milesto
 # Questions for TAs
 - Is our plan too ambitious?
 - How to deal with the changes to food inspections procedures that happened on July 1st, 2018?
+- Any hints about the visualizations we want to provide? 
+- Is it hard to build a map of Chicago with a slider to change the year?
