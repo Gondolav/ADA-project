@@ -19,7 +19,7 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 - How are the inspection and establishment types linked with the inspection results?
 - Is there a relationship between the type of the restaurant and the quality?
 
-## Neighborhood and food quality correlation
+## Neighbourhood and food quality correlation
 - How are the inspection results evolving over time and space?
 - Is there a relationship between the location of the restaurant and the quality? (economic and social causes)
 - What is the most encountered violation category for each neighborhood?
