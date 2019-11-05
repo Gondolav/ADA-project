@@ -13,17 +13,17 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 
 ## Establishments' predispositions to inspection failure
 - Which facility type is more likely to fail?
-- ~~Is the inspection frequency indeed correlated with the risk category?
+- ~~Is the inspection frequency indeed correlated with the risk category?~~
 - Are restaurants having already failed once more likely to fail again than the others? And are they more likely to close definitively?
 - Compare the inspection results of the different food chain restaurant against themselves or other restaurants.
-- ~~How are the inspection and establishment types linked with the inspection results?
-- ~~Is there a relationship between the type of the restaurant and the quality?
+- ~~How are the inspection and establishment types linked with the inspection results?~~
+- ~~Is there a relationship between the type of the restaurant and the quality?~~
 
 ## Neighbourhood and food quality correlation
 - How are the inspection results evolving over time and space?
 - Is there a relationship between the location of the restaurant and the quality? (economic and social causes)
 - What is the most encountered violation category for each neighborhood?
-- ~~Is there a correlation between the violation n°38 (INSECTS, RODENTS, & ANIMALS) and the location?
+- ~~Is there a correlation between the violation n°38 (INSECTS, RODENTS, & ANIMALS) and the location?~~
 
 ## Violation analysis
 - What are the frequencies of each violation?
