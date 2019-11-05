@@ -1,6 +1,6 @@
 This document relates everything we have done on the dataset each time we met.
 
-#05/11/19:
+# 05/11/19:
 _Andrea, Ludo and Thomas_
 * Remove duplicates on the `Inspection ID` so that this column becomes a unique index. Consequently, set index to `Inspection ID`.
 * Delete the six last rows as the five last are always empty and the sixth before the end (`Location`) is just a combination of two other columns (`Longitude` and `Latitude`).
