@@ -13,7 +13,7 @@ _Andrea, Ludo and Thomas_
   * by normalizing them, e.g. Chicago, CHICAGO and CHICAGOI are the same city. We decided to put all the names to uppercase for simplicity.
   * by deleting the name __INACTIVE__, which doesn't exist.
 
-# 05/11/19:
+# 07/11/19:
 _Andrea and Ludo_
 * Remove useless `State` filter because all remaining inspections are located in Illinois.
 * Cast `License \#` and `Zip` from float to int as they are integers.
