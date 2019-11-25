@@ -12,10 +12,10 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 - What is the evolution of the overall inspection frequency over the last decade?
 
 ## Establishments' predispositions to inspection failure
-- Which facility type is more likely to fail?
+- ~~Which facility type is more likely to fail?~~
 - ~~Is the inspection frequency indeed correlated with the risk category?~~
 - Are restaurants having already failed once more likely to fail again than the others? And are they more likely to close definitively?
-- Compare the inspection results of the different food chain restaurant against themselves or other restaurants.
+- Compare the inspection results of the different fast food restaurant chains against themselves or other restaurants.
 - ~~How are the inspection and establishment types linked with the inspection results?~~
 - ~~Is there a relationship between the type of the restaurant and the quality?~~
 
@@ -31,7 +31,7 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 - What are the most frequent violations encountered during complaint-caused inspections?
 
 # Dataset
-The [Chicago Department of Public Health's Food Protection Program website](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) provides us with a well-documented dataset of all the food inspections they have done over the past decade. After a first glance at the dataset, we noticed a small number of outliers, missing values and duplicates, except for the five last columns, where there is absolutely no data. Nevertheless, we have several ideas to manage and enrich the dataset. At first, we are going to categorize some columns such as "Facility Type" or "Risk" which take a finite number of values and are stored as strings. Then, to avoid mismatches, we will standardize values to have unique format (e.g. Chicago, CHICAGO, chicago). Finally, we could `explode` the comments in each row.
+The [Chicago Department of Public Health's Food Protection Program website](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) provides us with a well-documented dataset of all the food inspections they have done over the past decade. After a first glance at the dataset, we noticed a small number of outliers, missing values and duplicates, except for the five last columns, where there is absolutely no data. Nevertheless, we have several ideas to manage and enrich the dataset. At first, we are going to categorize some columns such as "Facility Type" or "Risk" which take a finite number of values and are stored as strings. Also, to avoid mismatches, we will standardize values to have unique format (e.g. Chicago, CHICAGO, chicago).
 
 # A list of internal milestones up until project milestone 2
 We will try to have a well-documented and working code after each internal milestone.
@@ -40,8 +40,12 @@ We will try to have a well-documented and working code after each internal miles
 - 18/11/2019: work on the third set of questions (Neighbourhood and food quality correlation)
 - 25/11/2019: work on the last set of questions (Violation analysis); include at the end of the notebook a more structured informed plan for what comes next
 
+# Updates on reaearch questions
+We decided to remove a good number of questions so that we can ellaborate more on the ones we kept. Besides, most of the discarded questions were in fact redundant with other questions. Others were simply found irrelevant after we took a closer look to them.
+
+# A list of internal milestones up until project milestone 2
+Our goal is to tell a data story on where to eat safely in Chicago. To do so, our idea is to create several maps that help the customers find the safest places to eat in Chicago.
+
+
 # Questions for TAs
-- Is our plan too ambitious?
-- How to deal with the changes to food inspections procedures that happened on July 1st, 2018?
-- Any hints about the visualizations we want to provide? 
-- Is it hard to build a map of Chicago with a slider to change the year?
+- 
