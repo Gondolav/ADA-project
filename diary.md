@@ -1,4 +1,5 @@
-This document relates everything we have done on the dataset each time we met, even though a lot of work was done individually between these meetings.
+This document relates everything we have done on the dataset each time we met.
+We worked a lot individually in between these meetings.
 
 # 05/11/19:
 _Andrea, Ludo and Thomas_
@@ -33,13 +34,12 @@ _Andrea, Ludo, Hugo and Thomas_
 ## Inspections' effects on establishments
 - [x] Does an inspection have a positive effect on the future inspections? i.e. does inspecting increase an establishment’s quality?
 - [x] Are inspections requested by the establishments usually favorable?
-- [ ] What is the proportion of successful inspections needed in order to obtain a license? i.e. assess the difficulty to obtain such a license (per facility type).
 - [x] What is the evolution of the overall inspection frequency over the last decade?
 
 ## Establishments' predispositions to inspection failure
 - [x] Which facility type is more likely to fail?
 - [ ] Are restaurants having already failed once more likely to fail again than the others? And are they more likely to close definitively?
-- [x] Compare the inspection results of the different fast food restaurant chains against themselves or other restaurants.
+- [x] Compare the inspection results of the different fast-food restaurant chains against themselves or other restaurants.
 
 ## Neighbourhood and food quality correlation
 - [ ] How are the inspection results evolving over time and space?
@@ -47,6 +47,6 @@ _Andrea, Ludo, Hugo and Thomas_
 - [x] What is the most encountered violation category for each neighborhood?
 
 ## Violation analysis
-- [ ] What are the frequencies of each violation?
-- [ ] Are some violations more frequent than others in an establishment’s failure?
-- [ ] What are the most frequent violations encountered during complaint-caused inspections?
+- [x] What are the frequencies of each violation?
+- [x] Are some violations more frequent than others in an establishment’s failure?
+- [x] What are the most frequent violations encountered during complaint-caused inspections?
