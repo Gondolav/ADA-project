@@ -19,3 +19,34 @@ _Andrea and Ludo_
 * Cast `License \#` and `Zip` from float to int as they are integers.
 * Put `Facility Type`, `Risk`, `Address`, `Inspection Type` and `Results` to uppercase.
 * Convert `Facility Type`, `Risk`, `Inspection Type` and `Results` from string to category.
+
+# 25/11/29:
+_Andrea, Ludo, Hugo and Thomas_
+* Finish answering the different questions we adressed in the first milestone:
+    * Answer the question about licenses. how?
+    * Are establishments more likely to fail? Must choose our way of answering
+    * Provide insightful comments on every question
+    * Ellaborate on the violation analysis
+    * how far are we going on the evolution over time and space? Need to make our plot more readable
+
+# Research questions
+## Inspections' effects on establishments
+- [x] Does an inspection have a positive effect on the future inspections? i.e. does inspecting increase an establishment’s quality?
+- [x] Are inspections requested by the establishments usually favorable?
+- [ ] What is the proportion of successful inspections needed in order to obtain a license? i.e. assess the difficulty to obtain such a license (per facility type).
+- [x] What is the evolution of the overall inspection frequency over the last decade?
+
+## Establishments' predispositions to inspection failure
+- [x] Which facility type is more likely to fail?
+- [ ] Are restaurants having already failed once more likely to fail again than the others? And are they more likely to close definitively?
+- [x] Compare the inspection results of the different food chain restaurant against themselves or other restaurants.
+
+## Neighbourhood and food quality correlation
+- [ ] How are the inspection results evolving over time and space?
+- [x] Is there a relationship between the location of the restaurant and the quality? (economic and social causes)
+- [x] What is the most encountered violation category for each neighborhood?
+
+## Violation analysis
+- [ ] What are the frequencies of each violation?
+- [ ] Are some violations more frequent than others in an establishment’s failure?
+- [ ] What are the most frequent violations encountered during complaint-caused inspections?
