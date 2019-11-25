@@ -15,7 +15,7 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 - Which facility type is more likely to fail?
 - ~~Is the inspection frequency indeed correlated with the risk category?~~
 - Are restaurants having already failed once more likely to fail again than the others? And are they more likely to close definitively?
-- Compare the inspection results of the different food chain restaurant against themselves or other restaurants.
+- Compare the inspection results of the different fast food restaurant chains against themselves or other restaurants.
 - ~~How are the inspection and establishment types linked with the inspection results?~~
 - ~~Is there a relationship between the type of the restaurant and the quality?~~
 
@@ -43,5 +43,5 @@ We will try to have a well-documented and working code after each internal miles
 # Questions for TAs
 - Is our plan too ambitious?
 - How to deal with the changes to food inspections procedures that happened on July 1st, 2018?
-- Any hints about the visualizations we want to provide? 
+- Any hints about the visualizations we want to provide?
 - Is it hard to build a map of Chicago with a slider to change the year?
