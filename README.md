@@ -8,7 +8,7 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 - Does an inspection have a positive effect on the future inspections? i.e. does inspecting increase an establishment’s quality?
 - Are inspections requested by the establishments usually favorable?
 - ~~Do these establishments still receive regular inspections? i.e. is requesting an inspection advantageous to an establishment to avoid subsequent inspections?~~
-- What is the proportion of successful inspections needed in order to obtain a license? i.e. assess the difficulty to obtain such a license (per facility type).
+- ~~What is the proportion of successful inspections needed in order to obtain a license? i.e. assess the difficulty to obtain such a license (per facility type). ~~
 - What is the evolution of the overall inspection frequency over the last decade?
 
 ## Establishments' predispositions to inspection failure
@@ -40,11 +40,20 @@ We will try to have a well-documented and working code after each internal miles
 - 18/11/2019: work on the third set of questions (Neighbourhood and food quality correlation)
 - 25/11/2019: work on the last set of questions (Violation analysis); include at the end of the notebook a more structured informed plan for what comes next
 
-# Updates on reaearch questions
-We decided to remove a good number of questions so that we can ellaborate more on the ones we kept. Besides, most of the discarded questions were in fact redundant with other questions. Others were simply found irrelevant after we took a closer look to them.
+# Updates on research questions
+We decided to remove a good number of questions so that we can elaborate more on the ones we kept. Besides, most of the discarded questions were in fact overlapping with other questions. Others were simply found irrelevant after we took a closer look at them.
 
-# A list of internal milestones up until project milestone 2
-Our goal is to tell a data story on where to eat safely in Chicago. To do so, our idea is to create several maps that help the customers find the safest places to eat in Chicago.
+# A list of internal milestones up until project milestone 3
+We want to focus our data story on where to eat safely in Chicago. To do so, our idea is to create several maps that help the customers find the safest places to eat in Chicago.
+
+Here is a snapshot of the shape we want to give to our datastory:
+- First of all, we want to give an overview of the facilities' predisposition to inspection failure and analyze the related violations.
+- Then, we address our main objective: showing which neighbours are the safest food-wise and explore the evolution of the neighbours' safety throughout time.
+- Finally, we would like to assess the usefulness and the potential effects of the food inspections.
+
+Here is a list of the internal milestones:
+- 05/12/2019: finishing up with the analysis and obtain all the required data
+- 20/12/2019: design the datastory and render it into a nice website with plots and comments 
 
 
 # Questions for TAs
