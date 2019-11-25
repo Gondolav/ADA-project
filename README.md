@@ -8,7 +8,7 @@ Chicago is home to 16,000 food establishments like restaurants, grocery stores, 
 - Does an inspection have a positive effect on the future inspections? i.e. does inspecting increase an establishment’s quality?
 - Are inspections requested by the establishments usually favorable?
 - ~~Do these establishments still receive regular inspections? i.e. is requesting an inspection advantageous to an establishment to avoid subsequent inspections?~~
-- ~~What is the proportion of successful inspections needed in order to obtain a license? i.e. assess the difficulty to obtain such a license (per facility type). ~~
+- ~~What is the proportion of successful inspections needed in order to obtain a license? i.e. assess the difficulty to obtain such a license (per facility type).~~
 - What is the evolution of the overall inspection frequency over the last decade?
 
 ## Establishments' predispositions to inspection failure
@@ -57,4 +57,3 @@ Here is a list of the internal milestones:
 
 
 # Questions for TAs
-- 
