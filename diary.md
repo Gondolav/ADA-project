@@ -1,4 +1,4 @@
-This document relates everything we have done on the dataset each time we met.
+This document relates everything we have done on the dataset each time we met, even though a lot of work was done individually between these meetings.
 
 # 05/11/19:
 _Andrea, Ludo and Thomas_
@@ -22,11 +22,11 @@ _Andrea and Ludo_
 
 # 25/11/29:
 _Andrea, Ludo, Hugo and Thomas_
-* Finish answering the different questions we adressed in the first milestone:
+* Finish answering the different questions we addressed in the first milestone:
     * Answer the question about licenses. how?
     * Are establishments more likely to fail? Must choose our way of answering
     * Provide insightful comments on every question
-    * Ellaborate on the violation analysis
+    * Elaborate on the violation analysis
     * how far are we going on the evolution over time and space? Need to make our plot more readable
 
 # Research questions
@@ -39,7 +39,7 @@ _Andrea, Ludo, Hugo and Thomas_
 ## Establishments' predispositions to inspection failure
 - [x] Which facility type is more likely to fail?
 - [ ] Are restaurants having already failed once more likely to fail again than the others? And are they more likely to close definitively?
-- [x] Compare the inspection results of the different food chain restaurant against themselves or other restaurants.
+- [x] Compare the inspection results of the different fast food restaurant chains against themselves or other restaurants.
 
 ## Neighbourhood and food quality correlation
 - [ ] How are the inspection results evolving over time and space?
