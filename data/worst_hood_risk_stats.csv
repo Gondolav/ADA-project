@@ -1,4 +1,4 @@
-community,population,ethnicity,education/higher(%),education/high_school(%),education/less(%),income/median($),income/less_50000(%)
+community_area,population,ethnicity,education/higher(%),education/high_school(%),education/less(%),income/median($),income/less_50000(%)
 
 BRIDGEPORT,33637,asian 33% white 33% hispanic 24%,35,43,20,45700,53
 ENGLEWOOD,25075,black 95%,12,60,26,19800,84
