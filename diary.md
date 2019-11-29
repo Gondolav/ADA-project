@@ -21,7 +21,7 @@ _Andrea and Ludo_
 * Put `Facility Type`, `Risk`, `Address`, `Inspection Type` and `Results` to uppercase.
 * Convert `Facility Type`, `Risk`, `Inspection Type` and `Results` from string to category.
 
-# 25/11/29:
+# 25/11/19:
 _Andrea, Ludo, Hugo and Thomas_
 * Finish answering the different questions we addressed in the first milestone:
     * Answer the question about licenses. how?
@@ -29,6 +29,14 @@ _Andrea, Ludo, Hugo and Thomas_
     * Provide insightful comments on every question
     * Elaborate on the violation analysis
     * how far are we going on the evolution over time and space? Need to make our plot more readable
+
+# 29/11/19:
+_Andrea, Ludo, Hugo and Thomas_
+* Collect statistic on the five less and the five most risky community areas thanks to [Chicago Metropolitan Agency for Planning website](https://www.cmap.illinois.gov/data/community-snapshots), about population, ethnics, education and income.
+* Find the community areas with the highest and the lowest pass relates.
+* Collect statistics on them as well.
+* Start to use `folium` to generate interactive maps that will be useful for our data story.
+* Successfully generate the first maps, one about risks per CA, one about results per CA.
 
 # Research questions
 ## Inspections' effects on establishments
