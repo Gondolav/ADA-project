@@ -58,3 +58,11 @@ Here is a list of the internal milestones:
 
 # Data story
 Our data story can be found [here](https://gondolav.github.io).
+
+# Contributions of each group member (TODO)
+The contributions of each group member are listed here. Note that most of the work has been done in group, simultaneously.
+
+- Andrea:
+- Hugo:
+- Thomas:
+- Ludo:
