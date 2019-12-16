@@ -47,22 +47,22 @@ We decided to remove a good number of questions so that we can elaborate more on
 We want to focus our data story on where to eat safely in Chicago. To do so, our idea is to create several maps that help the customers find the safest places to eat in Chicago.
 
 Here is a snapshot of the shape we want to give to our datastory:
-- First of all, we want to give an overview of the facilities' predisposition to inspection failure and analyze the related violations.
+- First of all, we want to give an overview of the facilities' predisposition to inspection failure and analyse the related violations.
 - Then, we address our main objective: showing which neighbours are the safest food-wise and explore the evolution of the neighbours' safety throughout time.
 - Finally, we would like to assess the usefulness and the potential effects of the food inspections.
 
 Here is a list of the internal milestones:
 - 05/12/2019: finishing up with the analysis and obtain all the required data
-- 20/12/2019: design the datastory and render it into a nice website with plots and comments 
+- 20/12/2019: design the datastory and render it into a nice website with plots and comments
 
 
 # Data story
 Our data story can be found [here](https://gondolav.github.io).
 
-# Contributions of each group member (TODO)
-The contributions of each group member are listed here. Note that most of the work has been done in group, simultaneously.
+# Contributions of each group member
+Most of the work has been done in group, simultaneously. Hence, it would be hard to come up with specific contributions for each member regarding the research questions, the preprocessing or the analysis. Therefore, only the contributions of each group member to the datastory are listed here.
 
-- Andrea:
-- Hugo:
-- Thomas:
-- Ludo:
+- Andrea: Set up, introduction and conclusion
+- Hugo: Violation analysis, inspection effects on establishments, presentation
+- Thomas: Evolution of the food quality per community area over time
+- Ludo: Facility type analysis and their predisposition to failure, comparison of famous fast-food restaurant chains between them
