@@ -62,7 +62,7 @@ Our data story can be found [here](https://gondolav.github.io).
 # Contributions of each group member
 Most of the work has been done in group, simultaneously. Hence, it would be hard to come up with specific contributions for each member regarding the research questions, the preprocessing or the analysis. Therefore, only the contributions of each group member to the datastory are listed here.
 
-- Andrea: Set up, introduction and conclusion
+- Andrea: Setup, introduction and conclusion
 - Hugo: Violation analysis, inspection effects on establishments, presentation
 - Thomas: Evolution of the food quality per community area over time
 - Ludo: Facility type analysis and their predisposition to failure, comparison of famous fast-food restaurant chains between them
